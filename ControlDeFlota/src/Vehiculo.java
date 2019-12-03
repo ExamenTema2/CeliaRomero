@@ -1,4 +1,7 @@
 public class Vehiculo {
+
+// Descripción: Vehículo perteneciente a una flota de vehículos.
+
 	private String matricula;
 	private String fabricante;
 	private String modelo;
