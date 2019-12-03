@@ -1,4 +1,7 @@
 public class Vehiculo {
+
+// Descripción: Vehículo perteneciente a una flota de vehículos.
+
 	private String matricula;
 	private String fabricante;
 	private String modelo;
@@ -32,4 +35,7 @@ public class Vehiculo {
 	public void setModelo(String modelo) {
 		this.modelo = modelo;
 	}
+
+// Autor: Celia Romero Díaz.
+
 }
