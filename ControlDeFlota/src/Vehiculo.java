@@ -32,4 +32,7 @@ public class Vehiculo {
 	public void setModelo(String modelo) {
 		this.modelo = modelo;
 	}
+
+// Autor: Celia Romero Díaz.
+
 }
